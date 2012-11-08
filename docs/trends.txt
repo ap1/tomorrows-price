@@ -1,0 +1,16 @@
+------------------------------------------------
+    What might affect a stock?
+    Possible use these to for base algorithms
+------------------------------------------------
+
+> stock earnings
+    > how does one company earnings affect another
+    > create some connections (ex. ARMH --> QCOM, TI, NVDA, INTC)
+> how does one affect another
+    > example: oil prices go up, hybrids more in demand --> company that manufactures batteries
+> P/E
+> layoffs
+> time (day, month, hour)
+> holidays
+> weather (storms, hurricanes, etc)
+> elections
