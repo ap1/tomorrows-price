@@ -8,9 +8,12 @@
     > create some connections (ex. ARMH --> QCOM, TI, NVDA, INTC)
 > how does one affect another
     > example: oil prices go up, hybrids more in demand --> company that manufactures batteries
+    > unexpected correlations between stocks (e.g. hard-disk manufacturers vs. backup services)
+    > delay correlations (e.g. if A rises/falls, B rises/falls after 2 weeks)
 > P/E
-> layoffs
 > time (day, month, hour)
 > holidays
-> weather (storms, hurricanes, etc)
-> elections
+> many trends can be estimated by keywords from news
+    > weather (storms, hurricanes, etc)
+    > elections
+    > layoffs
