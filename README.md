@@ -7,3 +7,5 @@ A: No, it cannot.
 
 However, I suggest you look at http://quantlib.org if you are interested in
 quantitative finance.
+
+Another useful link (repo): https://github.com/fearofcode/bateman
